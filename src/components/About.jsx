@@ -5,6 +5,8 @@ export default function About() {
       <p>
         I am a 3rd year Computer Science Engineering student focused on
         Data Structures, problem-solving, and building clean web applications.
+
+        GATE QUALIFIED.
       </p>
     </section>
   );
